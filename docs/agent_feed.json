@@ -1,6 +1,15 @@
 {
- "updated": "2026-10-21 05:51:30",
+ "updated": "2026-10-21 11:13:17",
  "observations": [
+  {
+   "timestamp": "2026-10-21 11:13:17",
+   "price": 83434.01,
+   "weight": 0.7871,
+   "flip_level": null,
+   "distance": null,
+   "state": "holding",
+   "note": "no close can cross the averages tomorrow - the rule keeps its long target whatever the price does"
+  },
   {
    "timestamp": "2026-10-21 05:51:30",
    "price": 82722.01,
@@ -351,20 +360,11 @@
    "distance": null,
    "state": "holding",
    "note": "no close can cross the averages tomorrow - the rule keeps its long target whatever the price does"
-  },
-  {
-   "timestamp": "2026-10-15 05:32:54",
-   "price": 81020.01,
-   "weight": 0.7871,
-   "flip_level": null,
-   "distance": null,
-   "state": "holding",
-   "note": "no close can cross the averages tomorrow - the rule keeps its long target whatever the price does"
   }
  ],
  "rule": "trend 50/200",
- "weight": 0.787122314019207,
+ "weight": 0.7871222975487976,
  "flipLevel": null,
  "flipText": "no close can cross the averages tomorrow - the rule keeps its long target whatever the price does",
- "asOf": "2026-10-20"
+ "asOf": "2026-10-21"
 }
