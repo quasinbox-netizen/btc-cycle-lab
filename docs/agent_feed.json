@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-16 21:10:29",
+ "updated": "2026-11-17 03:52:17",
  "observations": [
+  {
+   "timestamp": "2026-11-17 03:52:17",
+   "price": 64967.14,
+   "weight": 0.7871,
+   "flip_level": null,
+   "distance": null,
+   "state": "holding",
+   "note": "no close can cross the averages tomorrow - the rule keeps its long target whatever the price does"
+  },
   {
    "timestamp": "2026-11-16 21:10:29",
    "price": 64992.7,
@@ -346,15 +355,6 @@
   {
    "timestamp": "2026-11-07 04:48:45",
    "price": 75874.01,
-   "weight": 0.7871,
-   "flip_level": null,
-   "distance": null,
-   "state": "holding",
-   "note": "no close can cross the averages tomorrow - the rule keeps its long target whatever the price does"
-  },
-  {
-   "timestamp": "2026-11-06 23:56:18",
-   "price": 75946.81,
    "weight": 0.7871,
    "flip_level": null,
    "distance": null,
